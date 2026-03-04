@@ -43,7 +43,7 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 
 ### Morning: Pair Programming
 
-
+- Presentations: **Mini Projects**
 - [Summary](./material/bepp-summary.md)
 - [Level 5 (Advanced)](./material/bepp-l5.md)
 - [Level 1 (Beginner)](./material/bepp-l1.md)
