@@ -35,6 +35,7 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 
 - Custom hooks
 - Deploying MERN STACK app on Render
+- Presentations
 
 <!-- - [Screenshots](./material/Screenshots.md) -->
 
@@ -59,13 +60,17 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 
 <!-- - [Student’s Contribution to Industry 5.0](./material/industry50.md) -->
 - ~~Draw.io~~
-We'll  explore **Custom Hooks**, a powerful way to encapsulate reusable logic, making our components cleaner and more modular. 
+- Presentations
+- We'll  explore **Custom Hooks**, a powerful way to encapsulate reusable logic, making our components cleaner and more modular. 
   - [Summary](./material/fe-summary-custom-hooks.md)
   - [Activity 1: Custom hooks](./material/fe-activity-custom-hooks.md)
-- **Deploying** a MERN STACK app on Render
+- **Optional:** Deploying a MERN STACK app on Render
   - [Summary](./material/deployment.md)
   - [Demo Deployment](https://github.com/tx00-resources-en/week7-deploy-fe-demo)
-- [Activity 2: API testing](./material/api-testing.md) 
+  - [Activity 2: API testing](./material/api-testing.md) 
+- Here are some recommended activities for a comprehensive review of what we’ve covered so far. 
+  - [Backend](https://github.com/tx00-resources-en/w7-exam-practice-backend)
+  - [Frontend](https://github.com/tx00-resources-en/w7-exam-practice-frontend)  
 
 ----
 <details>

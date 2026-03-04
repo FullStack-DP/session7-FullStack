@@ -4,12 +4,11 @@ Deploying a MERN stack application involves two primary components:
 - **Frontend** (React): A user-facing interface that interacts with the backend.
 - **Backend** (Node.js/Express): Handles application logic and communicates with the database.
 
-
 ---
 ## Part 1: General Steps to Deploy a Full-Stack Application
 
 1. **Deploy the Database**:
-   - Use **MongoDB Atlas** to host your database.
+   - Use **MongoDB Atlas** to host your database. [Here's a step by step instructions.](./atlas.md) 
    - Test the connection using MongoDB Compass to ensure CRUD operations work.
 
 2. **Deploy the Backend**:
