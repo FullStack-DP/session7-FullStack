@@ -1,4 +1,4 @@
-# Backend Testing with Jest and Supertest — Step-by-Step Lab
+# Backend Testing: Level 1 — Step-by-Step Lab
 
 This lab walks you through testing backend APIs using **Jest** and **Supertest**.
 You will build on a **starter repository** that includes example test files.

@@ -1,4 +1,4 @@
-# Backend Testing with Jest and Supertest — Pair Programming Activity
+# Backend Testing: Level 5
 
 This pair programming activity focuses on testing backend APIs using **Jest** and **Supertest**.
 You will not start from scratch. You will build on a **starter repository** that includes example test files.

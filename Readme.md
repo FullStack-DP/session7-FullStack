@@ -2,7 +2,6 @@
 
 
 > [!IMPORTANT]  
-<!-- > - [Homework before frontend-session 8](./material/Homework.md) -->
 > - [Zoom Recordings](https://metropoliafi-my.sharepoint.com/:f:/g/personal/samiben_metropolia_fi/EramjTltA_BOni_R40opXRQBTQ1_gK6EWP2cbcX5G63ghA)
 
 ------
@@ -35,7 +34,7 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 ### Topics
 
 - Custom hooks
-- 
+- Deploying MERN STACK app on Render
 
 <!-- - [Screenshots](./material/Screenshots.md) -->
 
