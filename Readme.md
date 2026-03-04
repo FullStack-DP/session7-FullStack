@@ -58,9 +58,7 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 
 ### Afternoon
 
-<!-- - [Student’s Contribution to Industry 5.0](./material/industry50.md) -->
-- ~~Draw.io~~
-- Presentations
+- Presentations: **Mini Projects**
 - We'll  explore **Custom Hooks**, a powerful way to encapsulate reusable logic, making our components cleaner and more modular. 
   - [Summary](./material/fe-summary-custom-hooks.md)
   - [Activity 1: Custom hooks](./material/fe-activity-custom-hooks.md)
@@ -76,7 +74,13 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 <details>
 <summary>Links used in the Lecture</summary>
 
-
+- [Reusing Logic with Custom Hooks](https://react.dev/learn/reusing-logic-with-custom-hooks)
+- [Rules of Hooks](https://react.dev/warnings/invalid-hook-call-warning)
+- [React Custom Hooks](https://www.w3schools.com/react/react_customhooks.asp)
+- Add Login Authentication to React Applications
+  - [Mern Auth](https://github.com/iamshaunjp/MERN-Auth-Tutorial/tree/lesson-17) 
+  - [How To Add Login Authentication to React Applications](https://www.digitalocean.com/community/tutorials/how-to-add-login-authentication-to-react-applications)
+  
 </details>
 
   
