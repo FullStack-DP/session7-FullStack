@@ -53,19 +53,20 @@ We'll follow a 5-step learning cycle as shown in the figure below:
   - [Optional Activity](./material/bepp-extra.md)
   - [src](./material/src/)
   - [Sample tests for users](./material/user.test.js)
+- [How to use *MongoDB Atlas* to host your database](./material/atlas.md)
 
 -----
 
 ### Afternoon
 
 - Presentations: **Mini Projects**
+- We'll  explore **Custom Hooks**, a powerful way to encapsulate reusable logic, making our components cleaner and more modular. 
+  - [Summary](./material/fe-summary-custom-hooks.md)
+  - [Activity 1: Custom hooks](./material/fe-activity-custom-hooks.md)
 - **Deploying** a MERN STACK app on Render
   - [Summary](./material/deployment.md)
   - [Demo Deployment](https://github.com/tx00-resources-en/week7-deploy-fe-demo)
   - [Activity 2: API testing](./material/api-testing.md) 
-- We'll  explore **Custom Hooks**, a powerful way to encapsulate reusable logic, making our components cleaner and more modular. 
-  - [Summary](./material/fe-summary-custom-hooks.md)
-  - [Activity 1: Custom hooks](./material/fe-activity-custom-hooks.md)
 
   
 -----
