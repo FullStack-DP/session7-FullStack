@@ -49,8 +49,8 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 - [Level 1 (Beginner)](./material/bepp-l1.md)
 - cross-env: 
   - [Need for Multiple Environments](./material/bepp-summary.md#why-do-we-need-different-environments-in-an-api-server)
-  - [Summary](./material/bepp-extra-summary.md), 
-  - [Optional Activity](./material/bepp-extra.md), 
+  - [Summary](./material/bepp-extra-summary.md)
+  - [Optional Activity](./material/bepp-extra.md)
   - [src](./material/src/)
   - [Sample tests for users](./material/user.test.js)
 
