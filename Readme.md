@@ -73,6 +73,7 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 
 ### Exam Review
 
+- [Exam Review](https://github.com/tx00-resources-en/w7-extra-activity)
 - Here are some recommended activities for a comprehensive review of what we’ve covered so far. 
   - [Backend](https://github.com/tx00-resources-en/w7-exam-practice-backend)
   - [Frontend](https://github.com/tx00-resources-en/w7-exam-practice-frontend)  
