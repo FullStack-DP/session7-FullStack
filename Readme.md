@@ -88,6 +88,7 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 - [Reusing Logic with Custom Hooks](https://react.dev/learn/reusing-logic-with-custom-hooks)
 - [Rules of Hooks](https://react.dev/warnings/invalid-hook-call-warning)
 - [React Custom Hooks](https://www.w3schools.com/react/react_customhooks.asp)
+- [useSWR](https://swr.vercel.app/)
 - Add Login Authentication to React Applications
   - [Mern Auth](https://github.com/iamshaunjp/MERN-Auth-Tutorial/tree/lesson-17) 
   - [How To Add Login Authentication to React Applications](https://www.digitalocean.com/community/tutorials/how-to-add-login-authentication-to-react-applications)
