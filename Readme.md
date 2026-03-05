@@ -53,7 +53,6 @@ We'll follow a 5-step learning cycle as shown in the figure below:
   - [Optional Activity](./material/bepp-extra.md)
   - [src](./material/src/)
   - [Sample tests for users](./material/user.test.js)
-- [How to use *MongoDB Atlas* to host your database](./material/atlas.md)
 
 -----
 
@@ -63,17 +62,21 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 - We'll  explore **Custom Hooks**, a powerful way to encapsulate reusable logic, making our components cleaner and more modular. 
   - [Summary](./material/fe-summary-custom-hooks.md)
   - [Activity 1: Custom hooks](./material/fe-activity-custom-hooks.md)
-- **Deploying** a MERN STACK app on Render
-  - [Summary](./material/deployment.md)
-  - [Demo Deployment](https://github.com/tx00-resources-en/week7-deploy-fe-demo)
-  - [Activity 2: API testing](./material/api-testing.md) 
+  - [Activity 2: API testing](./material/api-testing.md)  
+- Deployment
+  - How to use [*MongoDB Atlas* to host your database](./material/atlas.md)
+  - **Deploying** a MERN STACK app on Render
+    - [Summary](./material/deployment.md)
+    - [Demo Deployment](https://github.com/tx00-resources-en/week7-deploy-fe-demo)
 
-  
 -----
 
 ### Exam Review
 
-- [Exam Review](https://github.com/tx00-resources-en/w7-extra-activity)
+- Exam Review
+  - [Part 1: CRUD no-auth & API Testing](https://github.com/tx00-resources-en/w7-extra-activity/blob/main/part1.md)
+   - [Part 2: Authentication & API Testing](https://github.com/tx00-resources-en/w7-extra-activity/blob/main/part2.md)
+   - [Sample Solutions for Part 1 & Part 2](https://github.com/tx00-resources-en/w7-extra-activity/tree/main/sample-solutions)
 - Here are some recommended activities for a comprehensive review of what we’ve covered so far. 
   - [Backend](https://github.com/tx00-resources-en/w7-exam-practice-backend)
   - [Frontend](https://github.com/tx00-resources-en/w7-exam-practice-frontend)  
